@@ -6,4 +6,5 @@ export default function behavior() {
 	onClick()
 	pageChange()
 	pv()
+	uv()
 }
